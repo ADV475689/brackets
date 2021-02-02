@@ -1,0 +1,17 @@
+h1{
+    border: 5px;
+    border-style: dashed;
+    
+}
+body{
+    text-align: center;
+    font-family: cursive;
+    background-color: coral;
+    font-size: 30px;
+
+}
+#brackets{
+    border: 5px;
+    border-style: dotted;
+
+}

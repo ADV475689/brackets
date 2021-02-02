@@ -1,0 +1,1 @@
+function image(){document.getElementById("brackets").src="depositphotos_1011438-stock-photo-empty.jpg";}
